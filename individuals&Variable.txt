@@ -1,0 +1,39 @@
+Individuals and variables
+The simplest kind of information we’ll work with in this course is a set of
+individuals with one or more properties, called variables. The individuals
+are the items in the data set and can be cases, things, people, etc.
+In this table for “heights of people in the car,” the individuals are the
+people, and their heights are a variable because height is a property of
+each individual.
+Together, individuals and variables are called data. When we organize
+data into a table like this one, we call it a data table. Here’s an example of
+a data table about ice cream:
+The individuals are the flavors: Vanilla, Chocolate, Cookies & Cream, etc.,
+and the variables are their properties: Scoops sold, Contains chocolate,
+and Smooth or chunky.
+Variables can be categorical or quantitative. In the table for “heights of
+people in the car,” there’s one quantitative variable: the height. In the table
+for “ice cream shop data for July,” there’s one quantitative variable
+(scoops), and two categorical variables (contains chocolate and smooth or
+chunky).
+• Categorical variables are non-numerical variables. Categorical
+variables are also called “qualitative” variables. Their values aren’t
+represented with numbers. Whether or not the ice cream contains
+chocolate, and whether the ice cream is smooth or chunky are
+categorical variables. This is because the values there are words,
+not numbers.
+• Quantitative variables are numerical variables. Their values are
+numbers. The height of the people in the car and the number of
+2
+scoops of ice cream sold are quantitative variables, because the
+values there are numbers.
+We can divide quantitative variables into discrete variables and
+continuous variables.
+• Discrete variables are those that we can obtain by counting.
+Therefore, they can take on only certain numerical values. For
+example, the number of scoops of ice cream sold is a discrete
+quantitative variable, because we can’t really sell 8.3 or 5.23 scoops
+of ice cream.
+• On the other hand, continuous variables may include data as
+decimals, fractions, or irrational numbers. For example, the height
+of the people in the car is a continuous variable
