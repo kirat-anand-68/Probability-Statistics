@@ -1,0 +1,16 @@
+Histograms and stem-and-leaf plots
+A histogram, also called a frequency histogram, is just like a bar graph,
+except that we collect the data into buckets or bins, and then sketch a bar
+for each bucket. Each bucket needs to be the same size, or width, so that
+they’re capable of holding the same amount of data.
+Unlike bar charts, histograms have no gaps between the bars (although
+some bars might be absent, which means there’s no frequency in that
+“bucket”). A histogram represents a continuous data set, which is why
+there are no gaps between the buckets.
+One reason we might want to use a histogram instead of a bar graph is
+because we have too many data points to plot individually. For example,
+maybe we want to use census data to make a graph of the number of
+people of each age in the entire city of San Francisco. In a typical bar
+graph, we have to show a bar for children younger that 1, another for 1
+-year-olds, for 2-year-olds, 3, 4, 5, all the way up to 100 or maybe even
+older. In other words, our bar graph might have 100 bars or more.
